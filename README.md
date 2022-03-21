@@ -1,7 +1,7 @@
 # game_of_life_hexagons_version
 
 ## Group Name
-XXX
+Conway's Hexagons
 
 ## Group member names and NetIDs
 * Peter Zhu (bowenz12)
